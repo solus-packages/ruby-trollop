@@ -1,0 +1,58 @@
+<PISI>
+    <Source>
+        <Name>ruby-trollop</Name>
+        <Packager>
+            <Name>Stig Svensson</Name>
+            <Email>stigarn@protonmail.ch</Email>
+        </Packager>
+        <License>MIT</License>
+        <PartOf>programming.ruby</PartOf>
+        <Summary xml:lang="en">Trollop is a commandline option parser for Ruby that just gets out of your way.</Summary>
+        <Description xml:lang="en">Trollop is a commandline option parser for Ruby that just gets out of your way. One line of code per option is all you need to write. For that, you get a nice automatically-generated help page, robust option parsing, command subcompletion, and sensible defaults for everything you don&apos;t specify.
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>ruby-trollop</Name>
+        <Summary xml:lang="en">Trollop is a commandline option parser for Ruby that just gets out of your way.</Summary>
+        <Description xml:lang="en">Trollop is a commandline option parser for Ruby that just gets out of your way. One line of code per option is all you need to write. For that, you get a nice automatically-generated help page, robust option parsing, command subcompletion, and sensible defaults for everything you don&apos;t specify.
+</Description>
+        <PartOf>programming.ruby</PartOf>
+        <Files>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/.gitignore</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/.travis.yml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/FAQ.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/Gemfile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/Gemfile.travis</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/History.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/lib/trollop.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/release-script.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/support/assert_helpers.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/test_helper.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/command_line_error_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/help_needed_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/parser_educate_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/parser_opt_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/parser_parse_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/parser_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/version_needed_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/trollop.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/trollop-2.1.3.gemspec</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2018-08-01</Date>
+            <Version>2.1.3</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Stig Svensson</Name>
+            <Email>stigarn@protonmail.ch</Email>
+        </Update>
+    </History>
+</PISI>
