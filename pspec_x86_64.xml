@@ -2,8 +2,8 @@
     <Source>
         <Name>ruby-trollop</Name>
         <Packager>
-            <Name>Stig Svensson</Name>
-            <Email>stigarn@protonmail.ch</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Packager>
         <License>MIT</License>
         <PartOf>programming.ruby</PartOf>
@@ -19,40 +19,40 @@
 </Description>
         <PartOf>programming.ruby</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/build_info</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/doc</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/extensions</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/.gitignore</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/.travis.yml</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/FAQ.txt</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/Gemfile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/Gemfile.travis</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/History.txt</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/README.md</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/Rakefile</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/lib/trollop.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/release-script.txt</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/support/assert_helpers.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/test_helper.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/command_line_error_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/help_needed_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/parser_educate_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/parser_opt_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/parser_parse_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/parser_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop/version_needed_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/test/trollop_test.rb</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/gems/trollop-2.1.3/trollop.gemspec</Path>
-            <Path fileType="library">/usr/lib64/ruby/gems/2.3.0/specifications/trollop-2.1.3.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/build_info</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/doc</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/extensions</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/.gitignore</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/.travis.yml</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/FAQ.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/Gemfile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/Gemfile.travis</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/History.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/README.md</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/Rakefile</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/lib/trollop.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/release-script.txt</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/test/support/assert_helpers.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/test/test_helper.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/test/trollop/command_line_error_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/test/trollop/help_needed_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/test/trollop/parser_educate_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/test/trollop/parser_opt_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/test/trollop/parser_parse_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/test/trollop/parser_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/test/trollop/version_needed_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/test/trollop_test.rb</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/gems/trollop-2.1.3/trollop.gemspec</Path>
+            <Path fileType="library">/usr/lib64/ruby/gems/2.6.0/specifications/trollop-2.1.3.gemspec</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-08-01</Date>
+        <Update release="2">
+            <Date>2018-12-26</Date>
             <Version>2.1.3</Version>
             <Comment>Packaging update</Comment>
-            <Name>Stig Svensson</Name>
-            <Email>stigarn@protonmail.ch</Email>
+            <Name>F. von Gellhorn</Name>
+            <Email>flinux@vongellhorn.ch</Email>
         </Update>
     </History>
 </PISI>
